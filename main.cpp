@@ -1,5 +1,3 @@
-// باسل اشريتح
-// ملك قواسمة
 #include <iostream>
 #include <windows.h>
 
